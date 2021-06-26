@@ -9,9 +9,15 @@ public class SeliniumTest {
 		System.out.println("GettingData");
 	}
 	@Test
-	public void PrintData()
+	public void printData()
 	{
 		System.out.println("Print the data");
 	}
+	@Test
+	public void testData()
+	{
+		System.out.println("Test the data");
+	}
+	
 
 }
