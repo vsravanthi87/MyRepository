@@ -18,6 +18,11 @@ public class SeliniumTest {
 	{
 		System.out.println("Test the data");
 	}
+	@Test
+	public void FetchData()
+	{
+		System.out.println("Fetching data");
+	}
 	
 
 }

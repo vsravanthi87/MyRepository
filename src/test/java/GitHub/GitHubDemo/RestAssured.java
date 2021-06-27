@@ -13,5 +13,11 @@ public class RestAssured {
 	{
 		System.out.println("GetPlaceApi");
 	}
+	@Test
+	public void PostApi()
+	{
+		System.out.println("PostApi");
+	}
+	
 
 }
