@@ -7,6 +7,7 @@ public class MobileAppiumTest {
 	public void MobileData()
 	{
 		System.out.println("MobileData");
+		System.out.println(("Mobile automationDAta"));
 	}
-
+ 
 }
